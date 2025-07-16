@@ -18,3 +18,7 @@ PyTorch projects from the Daniel Bourke "Zero to Mastery" course
 **Chapter 3 - PyTorch Computer Vision** 📹
 
 --> `pytorch_computer_vision.ipynb` - contains all content from *Chapter 3*
+
+**Chapter 4 - PyTorch Custom Dataset** 🗃
+
+--> `pytorch_custom_dataset.ipynb` - contains all content from *Chapter 4*
